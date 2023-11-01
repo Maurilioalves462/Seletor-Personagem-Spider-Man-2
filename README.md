@@ -15,7 +15,7 @@ Este simples projeto foi baseado em um evento do canal [Dev em Dobro](https://ww
 ## Visão Geral
 
 ### Captura de Tela
-![](/projeto-spider-man-2/src/imagens/screenshot.png)
+![](/src/imagens/screenshot.png)
 
 Esta é uma captura de tela do meu projeto.
 
